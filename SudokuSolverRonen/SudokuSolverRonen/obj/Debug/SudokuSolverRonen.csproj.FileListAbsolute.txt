@@ -1,0 +1,9 @@
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\bin\Debug\SudokuSolverRonen.exe.config
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\bin\Debug\SudokuSolverRonen.exe
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\bin\Debug\SudokuSolverRonen.pdb
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\obj\Debug\SudokuSolverRonen.SudokuSolverRonen.resources
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\obj\Debug\SudokuSolverRonen.Properties.Resources.resources
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\obj\Debug\SudokuSolverRonen.csproj.GenerateResource.cache
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\obj\Debug\SudokuSolverRonen.csproj.CoreCompileInputs.cache
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\obj\Debug\SudokuSolverRonen.exe
+C:\Users\ronen\source\repos\SudokuSolverRonen\SudokuSolverRonen\obj\Debug\SudokuSolverRonen.pdb
